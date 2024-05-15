@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookNest</string>
+    <string name="new_user_signup">New User?<b>SignUp</b></string>
+    <string name="add_category">.    + Add Category    .</string><!--Make signUp bold-->
+</resources>
